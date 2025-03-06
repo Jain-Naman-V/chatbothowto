@@ -57,7 +57,7 @@ logger = logging.getLogger(__name__)
 
 # Hardcoded API keys (replace with environment variables in production)
 GROQ_API_KEY = "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"  # Replace with your Groq API key
-LLAMAPARSE_API_KEY = "llx-m7Hjg39mz5mttG3itX73iR7ZQAN1AEDYIiAYj0fskUJ41iwu"  # Replace with your LlamaParse API key
+LLAMAPARSE_API_KEY = ""  # Replace with your LlamaParse API key
 COHERE_API_KEY = "LEndd5GjdPwV26AjGaNKCpSBc0pU3j9pyBE5EMyF"  # Replace with your Cohere API key
 
 
